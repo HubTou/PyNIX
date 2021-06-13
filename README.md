@@ -4,8 +4,12 @@ PyNIX, as in **Py**thon U**NIX**, is an add-on to [The PNU Project](https://gith
 ## Objectives:
 * Having some handy portable Unix tools, for example for Windows (though there are [plenty of other solutions](https://github.com/HubTou/PNU/wiki/Wilderness-Survival-Guide) for that).
 
-## Project status:
-* You can install [what's available](https://github.com/HubTou/PNU/releases/latest) from [our package](https://pypi.org/project/PyNIX/) with the following console command:
+## Status:
+* You can install what's available from [our package](https://pypi.org/project/PyNIX/) with the following console command:
 ```Shell
 pip install PyNIX
 ```
+
+## Commands bundled:
+* [The PNU Project](https://github.com/HubTou/PNU)
+* [pyfiglet](https://github.com/pwaller/pyfiglet) - a [FIGlet](http://www.figlet.org/) port
